@@ -37,6 +37,17 @@
 - Aprender a desenvolver um bom currículo focado em conseguir o primeiro emprego no ramo de tecnologia, isso, sim, vai fazer muita diferença. Espero o conhecimento para conseguir esse feito e espero a resposta às dúvidas sobre um currículo matador de IA, porque hoje em dia muitas vezes quem escolhe é a IA.
 - Gostaria de auxílio sobre como estruturar o meu LinkedIn, pois até então eu nunca tive um, então essa abordagem vai ditar todo o conhecimento para eu conseguir me diferenciar com um LinkedIn totalmente focado para a área que pretendo exercer.
 
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
+- Aprendi como funcionam as funções e o significado delas e como estruturar uma função.
+- Tipos de dados II aprendi como aplicar os dados de tipagens e a importância deles nos códigos.
+- Também aprendi muito com os tipos customizados, além de muita prática com os tipos utilitários como Partial, Pick, Omit, Required, Exclude, Extract, Record, Reandonly.
+- Métodos de Strings nesse desafio do modulo III consegui colocar muitos métodos que eu aprendi em decorrer do curso incluindo a manipulação de strings e seus métodos
+usei o slice,splice,join entre outros.
+- Entendi muito bem os métodos de Arrays I, II | III e as facilidades que eles trazem para diversos problemas no código e como eles deixam o código mais otimizado.
+- Aprendi jeitos para melhor organização do meu tempo, aplicativo para organizar as tarefas e saber priorizar as tarefas do dia. 
+- Aprender sobre como estruturar um currículo e deixá-lo mais atraente para os recrutadores foi ótimo, saber quais palavras-chave colocar, como priorizar o que as candidaturas estão pedindo, e desenvolver uma boa carta de apresentação.
+- Consegui desenvolver muito bem meu LinkedIn com as dicas da aula. Principalmente, como filtrar vagas, como deixar o meu perfil mais atrativo, como funcionam os tipos de vagas e como me candidatar para elas. Foi um conhecimento muito rico e estou aplicando.
 
 
 
