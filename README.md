@@ -1,53 +1,52 @@
-# evolucao-de-aprendizagem
-                        #Desafio de carreira referente ao Modulo 2
+# Evolução de Aprendizagem
+## Desafio de Carreira - Módulo 2
 
-## Conteúdos a serem trabalhados nesse módulo:
+### Conteúdos a serem trabalhados neste módulo:
 
 - Funções
-- Tipos de dados II
+- Tipos de Dados II
 - Tipos Utilitários
 - Métodos de Strings
 - Métodos de Arrays
 - Métodos de Arrays II
 - Métodos de Arrays III
-- Gestão de tempo
-- Currículo e carta de apresentação
-- LinkedIn: primeiros passos
+- Gestão de Tempo
+- Currículo e Carta de Apresentação
+- LinkedIn: Primeiros Passos
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+### O que eu já sei sobre os assuntos que serão abordados neste módulo?
 
-- Função é um "subprograma" que pode ser chamado por código externo ou interno à função. Em outras palavras, é uma forma de agrupar um conjunto de instruções que executa uma tarefa para reutilizá-las sob demanda.
-- Tipos de dados se referem às tipagens de variáveis e objetos. Você também pode criar tipagens literárias para representar valores específicos não genéricos, também é possível a união de tipos.
-- Tipos Utilitários é nada mais que uma biblioteca de tipos nativos, tipos customizados, além de exemplos práticos de tipos utilitários como Partial, Pick, Omit e Required entre outros.
-- Métodos de Strings são abordagens usadas para manipular texto, primeiramente teremos que ter em mente que tudo no JavaScript é tratado como um objeto, em especial as strings. Os métodos nativos do JavaScript para manipulação de Strings, como toUpperCase(), toLowerCase() e trim().
-- Métodos de Arrays como toUpperCase(), toLowerCase(), charAt(), push(), pop(), splice(), entre outros. Esses tipos de manipulação ajudam muito a facilitar a resolução de problemas e a redução de códigos.
-- Métodos de Arrays II são métodos de manipulações um pouco mais complexos e possuem comportamentos diferentes dos simples. Prática de métodos de array para manipulação eficiente de dados em listas, uma técnica chamada callback. Esta técnica é importante, pois permite criar código mais modular e reutilizável.
-- Métodos de Arrays III nesses métodos vemos a manipulação avançada de dados com o método sort() que possibilita a execução de uma função em formato crescente e decrescente, método Reduce(), que possibilita executar uma função para cada elemento em um array, mas retorna apenas um valor.
-- Gestão de tempo para organizar e facilitar o dia de maneira mais produtiva e assertiva.
-- Currículo e carta de apresentação são métodos mais eficientes para preparar um currículo, com efeito, mais assertivo nas vagas e processos seletivos com palavras-chave.
-- LinkedIn: primeiros passos para um LinkedIn mais atrativo e conceitos de busca de vaga, filtragens, apresentação de perfil.
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+- **Funções:** Funções são blocos de código reutilizáveis que realizam tarefas específicas. Elas permitem modularizar e simplificar o código, tornando-o mais organizado e reutilizável.
+- **Tipos de Dados II:** Tipos de dados referem-se às categorias de variáveis e objetos. Entendo como criar e usar tipos literais e a união de tipos para representar dados de maneira mais precisa.
+- **Tipos Utilitários:** Conheço tipos utilitários do TypeScript como `Partial`, `Pick`, `Omit`, e `Required`, que ajudam a modificar e criar novos tipos a partir dos existentes, facilitando a tipagem de dados.
+- **Métodos de Strings:** Strings em JavaScript são tratadas como objetos e possuem métodos nativos como `toUpperCase()`, `toLowerCase()`, e `trim()` para manipulação de texto.
+- **Métodos de Arrays:** Utilizo métodos básicos de arrays como `push()`, `pop()`, e `splice()` para manipulação de dados, facilitando a resolução de problemas e a simplificação do código.
+- **Métodos de Arrays II e III:** Estou familiarizado com métodos avançados de arrays como `map()`, `filter()`, `reduce()`, e `sort()`, que permitem manipulação e transformação complexa de dados.
+- **Gestão de Tempo:** Entendo a importância da gestão de tempo para aumentar a produtividade e estou buscando técnicas e ferramentas para melhorar minha organização diária.
+- **Currículo e Carta de Apresentação:** Sei como preparar um currículo e uma carta de apresentação mais eficazes, utilizando palavras-chave para atender melhor às exigências das vagas.
+- **LinkedIn: Primeiros Passos:** Compreendo os conceitos básicos de como configurar e otimizar meu perfil no LinkedIn para torná-lo mais atraente para recrutadores.
 
-- Aprender a usar as funções de maneira certa e entender os conceitos.
-- A tipagem correta para melhorar a estrutura dos códigos, conceitos para aprimorar a lógica de programação e evitar erros não vistos.
-- Gostaria de me aprofundar mais nos tipos nativos e conseguir utilizá-los com mais eficiência para desenvolvimento mais limpo e assertivo. 
-- Gostaria de aprender mais sobre como funcionam os métodos de strings e meios para introduzir no código para que a manipulação de texto seja melhor interpretada.
-- Quero saber melhor sobre os métodos de arrays do normal ao avançado para ter mais técnicas para resolução de problemas tanto fáceis como difíceis e gostaria de entender quando usar e quando não usar e saber qual usar.
-- Quero saber de dicas para gestão de tempo para me organizar, talvez com esse conhecimento mais aprofundado eu consiga acalmar a ansiedade que me atormenta.
-- Aprender a desenvolver um bom currículo focado em conseguir o primeiro emprego no ramo de tecnologia, isso, sim, vai fazer muita diferença. Espero o conhecimento para conseguir esse feito e espero a resposta às dúvidas sobre um currículo matador de IA, porque hoje em dia muitas vezes quem escolhe é a IA.
-- Gostaria de auxílio sobre como estruturar o meu LinkedIn, pois até então eu nunca tive um, então essa abordagem vai ditar todo o conhecimento para eu conseguir me diferenciar com um LinkedIn totalmente focado para a área que pretendo exercer.
+### O que quero aprender sobre os assuntos que serão abordados neste módulo?
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+- **Funções:** Aprender a criar e utilizar funções de forma mais eficiente e entender seus conceitos fundamentais.
+- **Tipos de Dados:** Aprofundar meu conhecimento sobre a tipagem de dados para melhorar a estrutura e a lógica dos meus códigos, prevenindo erros e aumentando a clareza.
+- **Tipos Utilitários:** Explorar mais os tipos utilitários para aplicá-los de forma mais eficaz e garantir um desenvolvimento mais limpo e assertivo.
+- **Métodos de Strings:** Entender melhor os métodos de manipulação de strings e como integrá-los ao código para otimizar o processamento de texto.
+- **Métodos de Arrays:** Dominar os métodos de arrays básicos e avançados, aprendendo quando e como usá-los para resolver problemas de forma eficaz.
+- **Gestão de Tempo:** Obter dicas e técnicas de gestão de tempo para melhorar minha organização pessoal e reduzir a ansiedade relacionada ao gerenciamento de tarefas.
+- **Currículo e Carta de Apresentação:** Aprender a criar um currículo impactante e uma carta de apresentação que se destaquem nas seleções automatizadas e atraentes para recrutadores.
+- **LinkedIn:** Receber orientações sobre como estruturar meu LinkedIn desde o início para criar um perfil forte e alinhado com minha área de interesse.
 
-- Aprendi como funcionam as funções e o significado delas e como estruturar uma função.
-- Tipos de dados II aprendi como aplicar os dados de tipagens e a importância deles nos códigos.
-- Também aprendi muito com os tipos customizados, além de muita prática com os tipos utilitários como Partial, Pick, Omit, Required, Exclude, Extract, Record, Reandonly.
-- Métodos de Strings nesse desafio do modulo III consegui colocar muitos métodos que eu aprendi em decorrer do curso incluindo a manipulação de strings e seus métodos
-usei o slice,splice,join entre outros.
-- Entendi muito bem os métodos de Arrays I, II | III e as facilidades que eles trazem para diversos problemas no código e como eles deixam o código mais otimizado.
-- Aprendi jeitos para melhor organização do meu tempo, aplicativo para organizar as tarefas e saber priorizar as tarefas do dia. 
-- Aprender sobre como estruturar um currículo e deixá-lo mais atraente para os recrutadores foi ótimo, saber quais palavras-chave colocar, como priorizar o que as candidaturas estão pedindo, e desenvolver uma boa carta de apresentação.
-- Consegui desenvolver muito bem meu LinkedIn com as dicas da aula. Principalmente, como filtrar vagas, como deixar o meu perfil mais atrativo, como funcionam os tipos de vagas e como me candidatar para elas. Foi um conhecimento muito rico e estou aplicando.
+### Minha evolução: O que aprendi sobre os assuntos abordados neste módulo?
+
+- **Funções:** Compreendi melhor a estrutura e o funcionamento das funções, e como utilizá-las de maneira eficiente.
+- **Tipos de Dados II:** Aprendi a aplicar tipagens específicas e a importância de usá-las para garantir a precisão e clareza no código.
+- **Tipos Utilitários:** Aprofundei meu conhecimento sobre tipos utilitários como `Partial`, `Pick`, `Omit`, `Required`, `Exclude`, `Extract`, `Record`, e `Readonly`, e como aplicá-los na prática.
+- **Métodos de Strings:** Utilize métodos como `slice()`, `splice()`, e `join()` para manipulação de strings, melhorando o processamento de texto no código.
+- **Métodos de Arrays I, II e III:** Entendi como métodos de arrays facilitam a solução de problemas e a otimização do código, aprendendo a usar `map()`, `filter()`, `reduce()`, e `sort()`.
+- **Gestão de Tempo:** Melhorei minha organização pessoal com aplicativos e técnicas de gerenciamento de tarefas e priorização.
+- **Currículo e Carta de Apresentação:** Aprendi a elaborar um currículo mais atraente e uma carta de apresentação eficaz, utilizando palavras-chave e priorizando as exigências das vagas.
+- **LinkedIn:** Desenvolvi meu perfil no LinkedIn com base nas dicas recebidas, otimizando a apresentação do meu perfil e aprendendo a buscar e filtrar vagas de forma mais eficaz.
 
 
 
